@@ -2,3 +2,4 @@ hgvhghgit pull
 git ftech ggit init
 git status
 git remote -v
+git cmmit -m
