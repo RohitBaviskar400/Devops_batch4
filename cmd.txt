@@ -1,2 +1,3 @@
-hgvhghggit init
+hgvhghgit pull 
+git ftech ggit init
 git status
